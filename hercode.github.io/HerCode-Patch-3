@@ -1,0 +1,159 @@
+<head>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+<style>
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+<h1>Sahasha Reese</h1>
+<h4>3714 Emerson Avenue North, Minneapolis, MN, 55412 612-567-2816 emailsahasha@gmail.com</h4>
+
+<p>Experienced professional with a solid background in devising IT solutions
+  for improved business efficiency and tailored client-facing services.
+  Strongly focused and knowledgeable possessing a wide breadth of software
+  installation and maintenance knowledge. Demonstrated success as a project 
+  manager in creating, implementing and managing system solutions from conception
+  to implementation. Special expertise in problem solving, workflow systems
+  analysis, procedures redesign and user training. Excellent analytical,
+  communication and interpersonal skills.</p>
+
+<h3>Professional Strengths and Abilities include:</h3>
+<ul>
+<li class="inline">Organizational skills and adaptibility</li><li class="inline">Project Management</li><li class="inline">Compliance</li><li class="last">Strong Relationship Skills</li>
+  </ul>
+<ul>
+<li class="inline">Program Coordination</li><li class="last">Budget Management</li>  <li class="inline">Auditing</li><li class="inline">Database Expert</li><li class="last">Service Expertise</li>
+</ul>
+<ul>
+<li class="inline">Highly Motivated</li><li class="inline">Training Coordination</li><li class="last">Strategic Innovator</li>
+</ul>
+          
+<h3>PROFESSIONAL EXPERIENCE</h3>
+             
+<h5>Flight Attendant
+Endeavor Air, March 2013 &ndash; April 2015</h5>
+        <ul>
+          <li>Provide exemplary customer service, exceeding expectations</li>
+          <li>Ensure compliance with Federal Aviation Administration
+            regulations</li>
+          <li>Actively seek to ensure safety and comfort of all clients</li>
+          <li>Facilitate and deliver food and beverages</li>
+          <li>Effectively manages escalated customer relations concerns</li>
+        </ul>
+        
+<h5>Database Administrator
+School Readiness Learning Academy, January 2013 &ndash; October 2013</h5>
+        <ul>
+          <li>Database Project Management</li>
+          <li>Database Software installation, configuration, upgrade and
+            migration.</li>
+          <li>Established business rules, maintained documentation of data and
+            reporting protocols, developed and implemented best practices for
+            database management including the assurance of database policies and
+            procedures, data integrity, data security, data extraction, report
+            customization and analysis.</li>
+          <li>Backup and recovery: developed, implemented, and periodically tested
+            a backup and recovery plan for database.</li>
+          <li>Developed and maintained reports using software reporting services
+            and other available reporting tools.</li>
+          <li>Reporting creation, documentation and support of core standardized
+            reports.</li>
+          <li>Trained and supported staff with use of the database.</li>
+        </ul>
+
+<h5>Media and Communications Manager
+Poppy Togs and Clogs, April 2012 &ndash; September 2012</h5>
+        <ul>
+          <li>Developed a solid relationship with business owner to effectively
+            translate her vision into marketing that met her goals and stayed
+            within budget constraints.</li>
+          <li>Designed social media messages that provided maximum impact with
+            minimal cost.</li>
+          <li>Managed online content to refresh messages frequently and keep
+            customers engaged.</li>
+          <li>Coordinated events that strengthened the connection between
+            customers and the business.</li>
+        </ul>
+ 
+<h5>Coordinator, Alumnae Relations/Assistant Editor and Graphic Designer Saint Catherine University, August 2011 &ndash; March 2013</h5>
+        <ul>
+          <li>Built, grew, maintained and enhanced internal and external client
+            relationships.</li>
+          <li>Managed office operations, procedures, and efficiency.</li>
+          <li>Staff Recruiting/Orientation/Training/Management</li>
+          <li>Maintained Office Professional/Technical Knowledge.</li>
+          <li>Project Management: Developed project plans. Managed project
+            stakeholders, communication,
+            team, and risk. Managed project schedule, budget, conflicts, and
+            delivery.</li>
+          <li>Budget Management: Consolidated data for the presentation of budgets
+            and provided an overview of the financial status of operations.</li>
+          <li>Maintained accounting records and identified trends that would help
+            or hurt organization.</li>
+          <li>Coordinated the preparation of the annual budget.</li>
+          <li>Gathered and controlled data during budget process and produced
+            budget reports for analysis by management.</li>
+          <li>Vendor Management</li>
+        </ul>
+       
+<h5>Admissions Administrator
+Saint Catherine University, August 2009 &ndash; August 2011</h5>        
+        <ul>
+          <li>Provided excellent face to face/phone/electronic/written customer
+            service.</li>
+          <li>Managed office operations, procedures, and efficiency.</li>
+          <li>Staff Recruiting/Orientation/Training/Management</li>
+          <li>Maintained Office Professional/Technical Knowledge</li>
+          <li>Project Management: Developed project plans.</li>
+          <li>Event Management: Monitored and controlled event.</li>
+          <li>Marketing: Conducting research, maintained contact databases and
+            archives.</li>
+          <li>Print and web content review and creation.</li>
+          <li>Administered daily control of all budget expenditures based on the
+            approved budget and approved transfers of funds. Prepared reports for
+            administrators concerning the status of their budgetary accounts to
+            guard against overspending. Maintained, reviewed and monitored
+            budgets, purchase orders, petty case, invoices, admission payments and
+            a variety of financial reports.</li>
+          <li>Data Migration: Analyzed the method of transforming existing data
+            into a format for the new environment and the loading of the data into
+            other database structures.</li>
+        </ul>
+
+<h5>Banking Coordinator/Credit Advisor
+Target Corporation, July 2006 &ndash; August 2009</h5>
+        <ul>
+          <li>Cultivated and maintained relationships with internal and external
+            stakeholders.</li>
+          <li>Administrative office support, bookkeeping, reservation,
+            reception.</li>
+          <li>Database Management</li>
+          <li>Project Management</li>
+          <li>Assisted to designing and building relational databases for data
+            storage and processing.</li>
+        </ul>
+
+<h3>EDUCATION</h3>
+        
+<h5>Bachelor of Science &ndash; Communication Studies,
+Saint Catherine University, Saint Paul, MN</h5>
+
+<h3>Computer proficiencies:</h3>
+<div id="menu"><ul>
+          <li class="inline">Adobe Design Suite, Desktop Publishing</li><li class="inline">C++, SQL, HTML, CSS</li><li class="inline">Crystal Reports</li><li class="inline">Mac/PC</li><li class="last">Microsoft Office Suite</li></ul>
+          </div>
+<div id="menu"><ul>
+<li class="inline">MS Project</li><li class="inline">Sarbanes Oxley Reporting</li><li class="inline">SAS, SPSS, STATA</li><li class="inline">SharePoint</li><li class="inline">SQL Server 2012 DBA</li><li class="last">Visio</li></ul>
+        </div>
+
+<h3>Industry Applications:</h3>          
+        <div id="menu"><ul>
+          <li class="inline">Airline &ndash; Customer Service</li><li class="inline">Analytics and Data Mining</li><li class="inline">Behavioral Health</li><li class="inline">CRM and ERP</li>  <li class="last">Business Accounting</li></ul></div>
+ <div id="menu"> <ul> 
+<li class="inline">Higher Education</li><li class="inline">IT</li><li class="last">Interactive Multimedia</li></ul>
+</div>
+</body>
+</style>
+</html>

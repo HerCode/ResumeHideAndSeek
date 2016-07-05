@@ -1,0 +1,49 @@
+<head>
+<link rel="stylesheet" title="Resume" type="text/css" href="stylesheet.css">
+</head>
+<style>
+<body>
+body
+{margin: none; padding: none; border: 8px; color: #000; background-color: #ffffO;}  
+  
+h1
+{ font: 25px Arial, Helvetica, sans-serif; font-style: italic; font-weight: 775; text-align: Justified; margin: 8px; padding-top: 9px;}
+
+h2 
+{ font: 13px Arial, Helvetica, sans-serif; font-style: italic; font-weight:200; text-align: justified; margin: 5px; padding: 4px; text-decoration: overline;}
+
+h3 
+{ font: 11px Arial, Helvetica, sans-serif ; font-weight:600; text-align: left; margin: 5px; padding: 4px;}
+
+h4 
+{ font: 11px Arial, Helvetica, sans-serif; font-weight: 700; text-align: justified; margin: 5px; padding: 4px; padding-top: 1px;}
+
+h5
+{ font: 9.49px Arial, Helvetica, sans-serif ; text-align: left; margin: 5px; padding: 4px;}
+
+h6 
+{ font: 11px Arial, Helvetica, sans-serif; font-weight: 500; text-align: left; margin: 5px; padding: 4px;}
+
+p 
+{font: 11px Arial, Helvetica, sans-serif; text-align: left; margin: 13px; padding: 11px; border-top-style: dotted; border-right-style: solid; border-bottom-style: solid; border-left-style: dotted;}
+
+ul
+{ font: 10px Arial, Helvetica, sans-serif ; text-align: left; margin: 3px padding: 2px;}
+  
+li.inline {
+  display: inline;
+  padding-left: 2px;
+  padding-right: 6px;
+  border-right: 1px dotted #066;
+  text-align: left;
+  }
+
+li.last {
+  display: inline;
+  padding-left: 2px;
+  padding-right: 2px;
+  border-right: 0px;
+  text-align: left;}
+</body>
+</style>
+
