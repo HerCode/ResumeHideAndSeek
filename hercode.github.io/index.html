@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>SAHASHA REESE Aspiring Developer</title>		
+	<title>SAHASHA REESE Aspiring Developer</title>
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="reset.css">
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
@@ -9,7 +9,7 @@
 
 <body>
 	<nav class="nav_closed">
-		<strong><a href="#mainnav" id="menu">MENU</a>
+		<strong><a href="#mainnav" id="menu">MENU</a></strong>
 		<ul id="navlist">
 			<strong><li><a href="#page-header">home</a></li></strong>
 			<strong><li><a href="#profile">profile</a></li></strong>
@@ -20,20 +20,23 @@
 		</ul>
 	</nav>
 	<section id="page-header">
-	 	<header>
+	<header>
 			<h1>SAHASHA REESE</h1>
 			<h2>Aspiring Developer &amp; Tech Enthusiast</h2>
 		</header>
 	</section>
 
+
 <!--PROFILE SECTION-->
 <section id="profile" class="page-content">
+	<div class="button" id="view">Show/Hide	</div>
 	<div class="about-me">
 		<header>
 			<h1>Personal Profile</h1>
 			<h2>about me</h2>
 		</header>
 			<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/21d/0ed/382e946.jpg" class="center"width="250" height="250" alt="Sahasha Reese">
+
 		<article>
 
 			<p>Experienced professional with a solid background in devising IT solutions for improved business efficiency and tailored client-facing services. Strongly focused and knowledgeable possessing a wide breadth of software installation and maintenance knowledge. Demonstrated success as a project manager in creating, implementing and managing system solutions from conception to implementation. Special expertise in problem solving, workflow systems analysis, procedures redesign and user training. For more information, email me at: <a href="mailto:emailsahasha@gmail.com">emailsahasha@gmail.com</a>.</p>
@@ -44,7 +47,7 @@
 
 <!--HIGHLIGHTS SECTION-->
 <section id="highlights" class="page-content">
-	<div class="outcomes">	
+	<div class="outcomes">
 		<header>
 			<h1>Career Outcomes</h1>
 			<h2>a few highlights</h2>
@@ -96,7 +99,7 @@
 
 				<p>MEDIA &amp; COMMUNICATIONS MANAGER -- Developed a solid relationship with business owner to effectively translate her vision into marketing that met her goals and stayed within budget constraints. Designed social media messages that provided maximum impact with minimal cost. Managed online content to refresh messages frequently and keep customers engaged. Coordinated events that strengthened the connection between customers and the business.</p>
 				<br>
-			
+
 				<p>COORDINATOR, ALUMNAE RELATIONS/ASSISTANT EDITOR &amp; GRAPHIC DESIGNER -- Built, grew, maintained and enhanced internal and external client relationships. Managed office operations, procedures, and efficiency. Staff Recruiting/Orientation/Training/Management Maintained Office Professional/Technical Knowledge. Project Management: Developed project plans. Managed project stakeholders, communication, team, and risk. Managed project schedule, budget, conflicts, and delivery. Budget Management: Consolidated data for the presentation of budgets and provided an overview of the financial status of operations. Maintained accounting records and identified trends that would help or hurt organization.Coordinated the preparation of the annual budget. Gathered and controlled data during budget process and produced budget reports for analysis by management. Vendor Management</p>
 				<br>
 
@@ -124,52 +127,8 @@
   	</div>
 </section>
 
-<script src="https://code.jquery.com/jquery-2.2.3.js" type="text/javascript"></script>
-<script type="text/javascript">
-	$(document).ready(function(){
-		$("#menu").click(function(){
-			$("nav.nav_closed").toggleClass("nav_open");
-	});
-
-	$("nav ul li a").click(function() {
-		$("nav.nav_open").removeClass("nav_open");
-
-	});	
-
-});
-</script>
-<noscript>
-	<ul id="mainnav">
-		<li><a href="#page-header">home</a></li>
-			<li><a href="#profile">profile</a></li>
-			<li><a href="#highlights">highlights</a></li>
-			<li><a href="#education">education</a></li>
-			<li><a href="#experience">experience</a></li>
-			<li><a href="#skills">skills</a></li>
-		</ul>
-
-</noscript>
-<script type="text/javascript">
-$(function() {
-	$('a[href*="#"]:not([href="#"])').click(function() {
-	  if (location.pathname.replace(/^\//,'') == this.pathname.
-	  	replace(/^\//,'') && location.hostname == this.hostname) {
-	   var target = $(this.hash);
-	   target = target.length ? target : $('[name=' + this.hash.slice(
-	   	1) +']');
-	   if (target.length) {
-		 $('html, body').animate({
-		  scrollTop: target.offset().top
-		 }, 800);
-		 return false;
-		}
-	  }
-	});
-  }); 
-</script>
-<noscript>
-	<p>Javascript is disabled in your browser. Smooth scrolling will be disabled on navigation links, but it does not affect the content.</p>
-</noscript>
+<script src="https://code.jquery.com/jquery-2.2.3.js" type="text/javascript"/>
+<script src="app.js" type="text/javascript"/>
 
 </body>
 </html>
